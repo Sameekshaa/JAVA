@@ -1,0 +1,4 @@
+1. WAP to list all files of a directory.
+2. WAP to copy an image.
+3. WAP to input name of 5 cities and store into a file "city.txt". 
+Also, read from "city.txt" and display those names that start with a vowel.
