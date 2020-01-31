@@ -1,2 +1,3 @@
-# Learning-git
-Learning Git...
+# Java
+
+Learn Java :)
